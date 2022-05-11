@@ -9,6 +9,7 @@
   "bin": {
     "about-wgrigor": "./index.js"
   },
+  "repository": "github:FrostByte266/hello-npm",
   "keywords": [
     "HelloWorld",
     "NPM"
