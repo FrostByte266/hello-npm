@@ -1,0 +1,27 @@
+{
+    "name": "William Grigor",
+    "website": "https://github.com/FrostByte266",
+    "linkedin": "https://www.linkedin.com/in/william-grigor-02532418a/",
+    "github": "FrostByte266",
+    "email": "bjgrigor@gmail.com",
+    "resume": "Work In Progress",
+    "proficientTechnologies": [
+        "Javascript",
+        "React",
+        "Vue",
+        "Node",
+        "Express",
+        "Mongodb",
+        "PostgreSQL",
+        "Python",
+        "Django",
+        "Jest",
+        "Gherkin/Cucumber"
+    ],
+    "otherSkills": [
+        "Critical Thinking",
+        "Problem Solving",
+        "Test driven development",
+        "Code cleanliness"
+    ]
+}
