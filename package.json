@@ -1,6 +1,6 @@
 {
   "name": "wgrigor-hello-npm",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A Hello World project for learning how to publish NPM packages",
   "main": "index.js",
   "scripts": {
